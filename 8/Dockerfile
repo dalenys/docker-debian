@@ -1,1 +1,1 @@
-from debian:jessie-slim
+from debian:jessie

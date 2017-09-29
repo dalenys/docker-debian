@@ -1,1 +1,1 @@
-from debian:wheezy-slim
+from debian:wheezy
